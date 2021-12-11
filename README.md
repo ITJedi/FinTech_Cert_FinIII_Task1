@@ -23,8 +23,10 @@
 
 ---
 
-[Code](./code/)
-
+- [Code](./code/)
+- [Data](./data/)
+- [Images](./images/)
+- [References](./references)
 ---
 
 ### Header Type 3
